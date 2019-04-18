@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gdpr *.css
+recursive-include gdpr *.csv
+recursive-include gdpr *.html
+recursive-include gdpr *.ico
+recursive-include gdpr *.js
+recursive-include gdpr *.json
+recursive-include gdpr *.md
+recursive-include gdpr *.png
+recursive-include gdpr *.py
+recursive-include gdpr *.svg
+recursive-include gdpr *.txt
+recursive-exclude gdpr *.pyc
