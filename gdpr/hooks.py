@@ -55,7 +55,7 @@ app_license = "GPL"
 # ------------
 
 # before_install = "gdpr.install.before_install"
-# after_install = "gdpr.install.after_install"
+after_install = "gdpr.setup.install.after_install"
 
 # Desk Notifications
 # ------------------
