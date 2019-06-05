@@ -236,43 +236,43 @@ def get_data():
         },
         {
             "title": _("Tax consultant"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         },
         {
             "title": _("Bank"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         },
         {
             "title": _("Employee"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         },
         {
             "title": _("Customer"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         },
         {
             "title": _("Supplier"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         },
         {
             "title": _("Tax office"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         },
         {
             "title": _("Sales stuff"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         },
         {
             "title": _("Webhost"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         },
         {
             "title": _("Management"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         },
         {
             "title": _("Sub-contracted processor"),
-            "doctype": "Data Subject Category"
+            "doctype": "Data Recipient Category"
         }
     ]
 
