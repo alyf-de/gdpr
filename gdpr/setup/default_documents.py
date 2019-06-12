@@ -275,44 +275,58 @@ def get_data():
             "doctype": "Data Recipient Category"
         },
         {
-          "description": "(Art. 46  (2) lit. c and d)\n\nhttps://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en\n\nEU Data Processing Agreement (DPA)",
-          "title": "Standard Contractual Clauses (SCC) for the Contractor"
+            "title": "Privacy Shield",
+            "doctype": "Data Protection Guarantee"
         },
         {
-          "description": "According to GDPR Art. 46 (2) lit. e und f\n",
-          "title": "Code of Conduct for the Contractor"
+            "title": "Standard Contractual Clauses (SCC) for the Contractor",
+            "description": "(Art. 46  (2) lit. c and d)\n\nhttps://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en\n\nEU Data Processing Agreement (DPA)",
+            "doctype": "Data Protection Guarantee"
         },
         {
-          "description": "-According to EU Comission\n-Andorra, Argentina, Canada (only commercial organizations), Faroe Islands, Guernsey, Israel, Isle of Man, Jersey, New Zealand, Swiss, Uruguay\n",
-          "title": "Safe Third Country "
+            "title": "Code of Conduct for the Contractor",
+            "description": "According to GDPR Art. 46 (2) lit. e und f\n",
+            "doctype": "Data Protection Guarantee"
         },
         {
-          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. a",
-          "title": "Explicit Consent of Data Subject"
+            "title": "Safe Third Country ",
+            "description": "-According to EU Comission\n-Andorra, Argentina, Canada (only commercial organizations), Faroe Islands, Guernsey, Israel, Isle of Man, Jersey, New Zealand, Swiss, Uruguay\n",
+            "doctype": "Data Protection Guarantee"
         },
         {
-          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and(1) lit. d\n",
-          "title": "Important Reasons of Public Interest"
+            "title": "Explicit Consent of Data Subject",
+            "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. a",
+            "doctype": "Data Protection Guarantee"
         },
         {
-          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. b und c  ",
-          "title": "Conclusion and Performance of a Contract between Data Subject and Controller"
+            "title": "Important Reasons of Public Interest",
+            "description": "According to Derogations for specific situations GDPR Art. 49 (1) and(1) lit. d\n",
+            "doctype": "Data Protection Guarantee"
         },
         {
-          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. e",
-          "title": "Establishment, Exercise or Defence of Legal Claims on Data Subject"
+            "title": "Conclusion and Performance of a Contract between Data Subject and Controller",
+            "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. b und c  ",
+            "doctype": "Data Protection Guarantee"
         },
         {
-          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. f",
-          "title": "Protect the Vital Interests of Data Subject"
+            "title": "Establishment, Exercise or Defence of Legal Claims on Data Subject",
+            "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. e",
+            "doctype": "Data Protection Guarantee"
         },
         {
-          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (2) S.1",
-          "title": "Legitimate Interest in Data Subject"
+            "title": "Protect the Vital Interests of Data Subject",
+            "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. f",
+            "doctype": "Data Protection Guarantee"
         },
         {
-          "description": "(Art. 46 (2) lit. b, Art. 47)\n(b) Binding Corporate Rules in accordance with Article 47;",
-          "title": "Binding Corporate Rules (BCRs) for the Contractor"
+            "title": "Legitimate Interest in Data Subject",
+            "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (2) S.1",
+            "doctype": "Data Protection Guarantee"
+        },
+        {
+            "title": "Binding Corporate Rules (BCRs) for the Contractor",
+            "description": "(Art. 46 (2) lit. b, Art. 47)\n(b) Binding Corporate Rules in accordance with Article 47;",
+            "doctype": "Data Protection Guarantee"
         }
     ]
 
