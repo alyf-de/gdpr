@@ -273,6 +273,46 @@ def get_data():
         {
             "title": _("Sub-contracted processor"),
             "doctype": "Data Recipient Category"
+        },
+        {
+          "description": "(Art. 46  (2) lit. c and d)\n\nhttps://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en\n\nEU Data Processing Agreement (DPA)",
+          "title": "Standard Contractual Clauses (SCC) for the Contractor"
+        },
+        {
+          "description": "According to GDPR Art. 46 (2) lit. e und f\n",
+          "title": "Code of Conduct for the Contractor"
+        },
+        {
+          "description": "-According to EU Comission\n-Andorra, Argentina, Canada (only commercial organizations), Faroe Islands, Guernsey, Israel, Isle of Man, Jersey, New Zealand, Swiss, Uruguay\n",
+          "title": "Safe Third Country "
+        },
+        {
+          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. a",
+          "title": "Explicit Consent of Data Subject"
+        },
+        {
+          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and(1) lit. d\n",
+          "title": "Important Reasons of Public Interest"
+        },
+        {
+          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. b und c  ",
+          "title": "Conclusion and Performance of a Contract between Data Subject and Controller"
+        },
+        {
+          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. e",
+          "title": "Establishment, Exercise or Defence of Legal Claims on Data Subject"
+        },
+        {
+          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (1) lit. f",
+          "title": "Protect the Vital Interests of Data Subject"
+        },
+        {
+          "description": "According to Derogations for specific situations GDPR Art. 49 (1) and (2) S.1",
+          "title": "Legitimate Interest in Data Subject"
+        },
+        {
+          "description": "(Art. 46 (2) lit. b, Art. 47)\n(b) Binding Corporate Rules in accordance with Article 47;",
+          "title": "Binding Corporate Rules (BCRs) for the Contractor"
         }
     ]
 
