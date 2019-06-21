@@ -91,11 +91,11 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2019-04-18 15:15:01.897207", 
+ "modified": "2019-06-21 13:20:09.598555", 
  "modified_by": "Administrator", 
  "module": "Data Processing", 
  "name": "Data Subject Category", 
- "name_case": "", 
+ "name_case": "Title Case", 
  "owner": "Administrator", 
  "permissions": [
   {

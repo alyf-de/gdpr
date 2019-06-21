@@ -91,11 +91,11 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2019-06-12 15:34:00.748114", 
+ "modified": "2019-06-21 13:20:56.569931", 
  "modified_by": "Administrator", 
  "module": "Data Processing", 
  "name": "Data Protection Guarantee", 
- "name_case": "", 
+ "name_case": "Title Case", 
  "owner": "raffael@alyf.de", 
  "permissions": [
   {

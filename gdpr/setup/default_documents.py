@@ -109,14 +109,17 @@ def get_data():
         {
             "doctype": "Personal Data Category",
             "title": _("Wage/salary")
-        },{
+        },
+        {
             "doctype": "Personal Data Category",
             "title": _("Religion")
-        },{
+        },
+        {
             "doctype": "Personal Data Category",
             "title": _("Insurances"),
             "description": _("Health Insurance Provider")
-        },{
+        },
+        {
             "doctype": "Personal Data Category",
             "title": _("Marital status")
         },
