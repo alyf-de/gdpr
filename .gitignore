@@ -4,3 +4,4 @@
 *.swp
 tags
 gdpr/docs/current
+.vscode
