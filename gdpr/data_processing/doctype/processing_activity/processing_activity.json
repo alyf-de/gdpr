@@ -626,8 +626,8 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2019-06-21 15:16:19.856465", 
- "modified_by": "Administrator", 
+ "modified": "2019-06-21 17:31:56.339443", 
+ "modified_by": "raffael@alyf.de", 
  "module": "Data Processing", 
  "name": "Processing Activity", 
  "name_case": "Title Case", 
@@ -660,6 +660,6 @@
  "sort_field": "modified", 
  "sort_order": "ASC", 
  "track_changes": 1, 
- "track_seen": 0, 
- "track_views": 0
+ "track_seen": 1, 
+ "track_views": 1
 }
